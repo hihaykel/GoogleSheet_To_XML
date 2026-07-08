@@ -3,7 +3,7 @@
 A lightweight Google Apps Script to automatically export Google Sheets data into a clean, structured XML file directly to your Google Drive.
 
 ## 📺 Video Tutorial
-If you want to see how to set this up step-by-step in less than 5 minutes, watch the video here: **[INSERT YOUR YOUTUBE VIDEO LINK HERE]**
+If you want to see how to set this up step-by-step in less than 5 minutes, watch the video here:https://youtu.be/Vx276La9dKw
 
 ## 🚀 How to Use
 
